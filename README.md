@@ -134,6 +134,41 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
 </tr>
 </table>
 
+
+## Databases
+<table>
+  <tr>
+  <td align="center" width="96"> 
+        <img src="https://github.com/ansel9618/icons/blob/main/db/mongodb-removebg-preview.png" width="48" height="48" alt="Git" />
+      <br>Mongodb
+    </td>   
+  <td align="center" width="96"> 
+        <img src="https://github.com/ansel9618/icons/blob/main/db/mysql-removebg-preview.png" width="48" height="48" alt="Flask" />
+      <br>Mysql
+    </td> 
+  <td align="center" width="96"> 
+        <img src="https://github.com/ansel9618/icons/blob/main/db/neo4j-removebg-preview.png" width="48" height="48" alt="postman" />
+      <br>Neo4j
+    </td> 
+  <td align="center" width="96"> 
+        <img src="https://github.com/ansel9618/icons/blob/main/db/postgres-removebg-preview.png" width="48" height="48" alt="Swagger" />
+      <br>Postgres
+    </td> 
+  <td align="center" width="96"> 
+        <img src="https://github.com/ansel9618/icons/blob/main/db/redis-removebg-preview.png" width="48" height="48" alt="Streamlit" />
+      <br>Redis
+    </td> 
+  </tr> 
+<tr>
+    <td>
+        &nbsp;
+        <!--you just need a space in a row-->
+    </td>
+</tr>
+</table>
+
+
+
  ## Version Control
  <table>
     <td align="center" width="96"> 
