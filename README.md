@@ -89,10 +89,6 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Docker
     </td>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
   </tr>
   <tr>
     <td>
@@ -125,6 +121,10 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
         <img src="https://github.com/ansel9618/icons/blob/main/Api_Framework/streamlit-removebg-preview.png" width="48" height="48" alt="Streamlit" />
       <br>Streamlit
     </td> 
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+   </td>
   </tr> 
 <tr>
     <td>
