@@ -8,9 +8,7 @@
   <a href="https://www.linkedin.com/in/ansel-janson-0791/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
-    <img src="https://img.shields.io/badge/Naukri-red?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri Badge"/>
-  </a>
+
   <a href="https://twitter.com/janson_ansel">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
